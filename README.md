@@ -1,5 +1,5 @@
 # ENDOSCOPY
-Start with the preprocessing file and mount the doc to google drive. Once the pickled batches of extracted frames with their corresponding label from the csv files are loaded you do not need to do that again.
+Start with the preprocessing file and mount the doc to google drive. Once the pickled batches of extracted frames with their corresponding label from the csv files are loaded, you do not need to do that again.
 
 Then do the train test split - depending on if you want to do all the labels or labels with 'other' removed.
 
